@@ -17,7 +17,7 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:3000/routes/64eca2a811c4f45264790291
+DELETE http://localhost:3000/routes/64ecada2a273e1d0c7b29047
 
 ### Coisas do Maps
 
